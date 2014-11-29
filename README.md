@@ -1,4 +1,4 @@
 FirstRepo
 =========
 
-The first GIT repository
+The first GIT repository created by Skamy
